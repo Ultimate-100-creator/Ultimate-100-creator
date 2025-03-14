@@ -4,6 +4,7 @@
 🖼Design Student at Ecole Supérieure d'Administration d'Economie<br>
 📋 I can develop Websites with HTML, Tailwind CSS, JavaScript, React, Node.Js, Next.Js, Nest.Js TypeScript also skilled in Cybersecurity and Cryptography<br>
 🧱 I am into Cryptography and web3 and I can create Ton Blockchain and Decentralized Systems
+⚡ Tech Stack: Solidity | Rust | JavaScript | Python | Node.js | React | Web3.js | Ton-based Development
 
 
 ## 🌐 Socials:
