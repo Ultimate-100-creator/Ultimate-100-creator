@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Paul 👾<br>
 
-👩🏽‍💻Computer Science Students at WtSchools<br>
-🖼Design Student at Ecole Supérieure d'Administration d'Economie<br>
-📋 I can develop Websites with HTML, Tailwind CSS, JavaScript, React, Node.Js, Next.Js, Nest.Js TypeScript also skilled in Cybersecurity and Cryptography<br>
-🧱 I am into Cryptography and web3 and I can create Ton Blockchain and Decentralized Systems<br>
+👩🏽‍💻 Computer Science Student at WtSchools<br>
+🖼 Student specializing in Web App Development and Cybersecurity at Ecole Supérieure d'Administration d'Economie<br>
+📋 I develop web applications using HTML, Tailwind CSS, JavaScript, React, Node.js, Next.js, Nest.js, and TypeScript...<br>
+🧱 I specialize in cryptography and Web3, developing Ton Blockchain-based and decentralized systems<br>
 ⚡ Tech Stack: Solidity | Rust | JavaScript | Python | Node.js | React | Web3.js | Ton-based Development<br>
 🗣 Foreign Languages - English(Professional Speaker IELTS certified), French(Intermediate Speaker DALF certified), German(Basic Speaker ÖSD certified).
 
