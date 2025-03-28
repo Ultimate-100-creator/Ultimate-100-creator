@@ -3,7 +3,7 @@
 👩🏽‍💻 Student at Ecole Supérieure d'Administration d'Economie specializing in Web App Development and Cybersecurity<br>
 📋 I develop web applications using HTML, Tailwind CSS, JavaScript, React, Node.js, Next.js, Nest.js, and TypeScript<br>
 🧱 I specialize in cryptography and Web3, building Ton Blockchain-based and decentralized systems<br> 
-⚡ Tech Stack: Solidity | Rust | JavaScript | Python | Node.js | React | Web3.js | Ton-based Development<br> 
+⚡ Tech Stack: FunC | Tact | Tolk | Rust | JavaScript | Python | Node.js | React | Web3.js | Ton-based Development<br> 
 🗣 Languages: English (Professional - IELTS certified), French (Intermediate - DALF certified), German (Basic - ÖSD certified).<br>
 
 Learning Journey:<br>
