@@ -1,17 +1,5 @@
-## Hi there 👋, I'm Paul 👾<br>
+Cybersecurity student, frontend developer, and aspiring software engineer passionate about secure systems, scalable web applications, and emerging technologies. Currently studying Cybersecurity at McPherson University and building projects with React, Next.js, JavaScript, and Python. Interested in cybersecurity, software architecture, cloud systems, and user-focused digital products. Founder of projects focused on trust-scoring systems, property management, and health information platforms.
 
-👩🏽‍💻 Student at Ecole Supérieure d'Administration d'Economie specializing in Web App Development and Cybersecurity<br>
-📋 I develop web applications using HTML, Tailwind CSS, JavaScript, React, Node.js, Next.js, Nest.js, and TypeScript<br>
-🧱 I specialize in cryptography and Web3, building Ton Blockchain-based and decentralized systems<br> 
-⚡ Tech Stack: FunC | Tact | Tolk | Rust | JavaScript | Python | Node.js | React | Web3.js | Ton-based Development<br> 
-🗣 Languages: English (Professional - IELTS certified), French (Intermediate - DALF certified), German (Basic - ÖSD certified).<br>
-
-Learning Journey:<br>
-
-Web Development: Developed practical skills through GeeksforGeeks tutorials<br>
-Cybersecurity: Acquired foundational and advanced skills at WTSchools<br>
-Cryptography: Completed specialized courses on Coursera<br>
-Ton Blockchain: Self-studied using Ton Docs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adedamola-olutoye) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_am_olutoye_adedamola_devop) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/i_am_ultimate_100) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/i_am_ultimate_100) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/olutoye_devop) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:olutoyeadedamoladevop@gmail.com) 
